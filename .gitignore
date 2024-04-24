@@ -1,0 +1,5 @@
+imagens/*
+.vscode/*
+bin/*
+obj/*
+output/*
