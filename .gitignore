@@ -1,5 +1,5 @@
-imagens/*
+imagens/*.jpg
+output/*.jpg
 .vscode/*
 bin/*
 obj/*
-output/*

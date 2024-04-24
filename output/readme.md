@@ -1,0 +1,1 @@
+Imagens que serão geradas da pasta imagens
